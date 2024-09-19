@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-mu-bice-58.vercel.app/](https://my-portfolio-mu-bice-58.vercel.app/)
-
 - 💬 Ask me about **HTML,CSS,Javascript,C++**
 
 - 📫 How to reach me **raghavadhanukonda709@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/fs6j3r5r8e](https://flowcv.com/resume/fs6j3r5r8e)
 
 - ⚡ Fun fact **We born to develop**
 
