@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raghava Dhanukonda</h1>
-<h3 align="center">A passionate Web developer&Competitive Programmer from India</h3>
+<h3 align="center">I am to be a Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghava7095&label=Profile%20views&color=0e75b6&style=flat" alt="raghava7095" /> </p>
 
-- 🌱 I’m currently working on **MERN Stack**
+- 🌱 I’m currently working on **Full Stack Devlopment**
 
 - 💬 Ask me about **Web Techonolgies and DSA**
 
 - 📫 How to reach me **raghavadhanukonda709@gmail.com**
 
-- ⚡ A question for you **What is life? Why we are living?**(want to know my answer send a mail ha ha we can connect!!!!)
+- ⚡Question for you... **does we are here to prove we are in simulation ?**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghava__18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghava__18" height="30" width="40" /></a>
