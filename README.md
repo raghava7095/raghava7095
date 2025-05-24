@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **raghavadhanukonda709@gmail.com**
 
-- ⚡Question for you... **Are we here to prove that we're living in a simulation?**
+- ⚡Question for you--> **Are we here to prove that we're living in a simulation?**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghava__18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghava__18" height="30" width="40" /></a>
