@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghava7095&label=Profile%20views&color=0e75b6&style=flat" alt="raghava7095" /> </p>
 
-- 🌱 I’m currently working on **Full Stack Devlopment**
+- 🌱 I’m currently working on **Full Stack Development**
 
 - 💬 Ask me about **Web Techonolgies and DSA**
 
